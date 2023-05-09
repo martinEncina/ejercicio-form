@@ -1,0 +1,101 @@
+body{
+    font-family: sans-serif;
+}
+
+header{
+    display: flex;     
+    
+}
+
+.TextoHeader{    
+    margin-left: auto;    
+    display: grid;
+    padding: 14px;
+
+.link{
+color: rgb(23, 107, 239);
+}
+}
+
+.Principal{
+margin-left: 99px;
+}
+
+.SubTexto{
+    padding: 37px 114px 0px;
+    display: grid;
+}
+.Logo{
+    margin: 5px;
+}
+
+.logoRedes{
+    height: 20px;
+    width: 20px;
+    vertical-align: middle;
+    margin: 2px;
+    border-radius: 10%;
+}
+.Redes{
+    display: flex;
+    margin: 16px 0px;
+    font-size: small;
+}  
+.textoRedes{
+    vertical-align: middle;
+}
+
+.GooglePosicion{
+    background-color: rgb(23, 107, 239);
+    color: white;
+    margin-right: 5px;
+    vertical-align: middle;  
+    padding-right: 7px;
+    border-radius: 4px;
+}
+
+.FacePosicion{
+    background-color: rgb(59, 89, 182);
+    color: white;
+    text-align: center;    
+    padding-right: 7px;
+    border-radius: 4px;
+}
+.EmailTex{
+    padding: 0px 114px;
+}
+.InputEmailPassword{
+    display: grid;
+    width: 440px;
+    font-size: 15px;
+    margin: 18px 114px
+}
+.Box{
+    padding: 0px 110px;
+    font-size: small;
+}
+.TextoPie{
+    display: flex;
+    position: absolute;
+    bottom: 14px;    
+    padding: 0px 38px;
+}
+.restoDePie{
+    display: flex;
+    gap: 20px;
+}
+.Issuu{
+    padding: 0px 100px 0px 40px;
+}
+.CrearCuenta{
+    border-style:dotted;
+    border-color: rgb(201, 201, 201);
+    color:rgb(201, 201, 201);
+    background-color: white;
+    width: 147px;
+    padding: 11px 25px;
+    margin-left: 114px;
+    margin-top: 24px;
+    border-radius: 20px;
+    
+}
